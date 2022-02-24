@@ -1,0 +1,23 @@
+figure{
+    width: 300px;
+    padding: 1px;
+    margin: 5px;
+    border: 5px;
+    border-style: groove;
+    display: inline-block;
+}
+
+figcaption{
+    background-color: aqua;
+}
+.poem{
+    font-size: 20px;
+}
+.fig1{
+    float:left; 
+    margin-left: .5em;
+}
+.fig2{
+    float:right; 
+    margin-right: .5em;
+}

@@ -1,0 +1,31 @@
+nav ul{
+    background-color: #f1dcff;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display:flex;
+    justify-content: center;
+    
+}
+nav ul li{
+    display: block;
+    border: 1px solid;
+    border-radius: .5em;
+    padding: .5em 1em;
+    margin: .5em;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 40px;
+}
+p{
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(120deg, #FFF8DC, #c8AF8B );
+}
